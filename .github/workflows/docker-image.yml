@@ -30,3 +30,4 @@ jobs:
           tags: |
             marcusardenstedt/marcus-ericsson:latest
             marcusardenstedt/marcus-ericsson:1.5
+            
